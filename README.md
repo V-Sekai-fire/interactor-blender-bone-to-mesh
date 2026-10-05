@@ -8,7 +8,7 @@ It builds a mesh object beside the armature with a solid along each bone, so a s
 
 ## Build and run
 
-Install `BoneToMesh.py` as an add-on, select an armature, and run Mesh From Armature from the Object menu.
+Install `BoneToMesh.py` as an add-on, select an armature, and search for Mesh From Armature in the editor's operator search.
 
 ## Licence
 
